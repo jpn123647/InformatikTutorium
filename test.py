@@ -6,7 +6,7 @@
 print("Hello World")
 
 # 2️⃣ Gegebene Liste
-my_list = [7, 3, 10, 0, 5, 2, 8, 1, 4, 6, 9, 3]
+my_list = [7, 3, 10, 0, 5, 2, 8, 1, 4, 6, 9, 3, 15]
 
 # 3️⃣ Linear Search Funktion
 def linear_search(lst, target):
